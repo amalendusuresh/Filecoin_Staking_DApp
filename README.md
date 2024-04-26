@@ -22,7 +22,7 @@
 # Installation
 * Clone the repository
 
-
+        https://github.com/amalendusuresh/Filecoin_Staking_DApp.git
 
 * Install dependencies
 
